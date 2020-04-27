@@ -1,0 +1,14 @@
+{
+  "name": "dikush",
+  "authors": [
+    "dikushan00 <dikushant@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
